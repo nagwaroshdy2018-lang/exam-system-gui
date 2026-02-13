@@ -1,0 +1,12 @@
+build/
+build-qt/
+.qtcreator/
+vcpkg/
+*.exe
+*.o
+*.obj
+Makefile*
+*.pro.user*
+*.user
+temp.txt
+*.log
